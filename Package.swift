@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SGRVision",
-            url: "https://github.com/SGRsoft-Dev/vision-ios-sdk/releases/download/0.1.2/SGRVision.xcframework.zip",
-            checksum: "14721e0bb8d21700656a5052ac4770dfdcf82d2d47c3213360d3d7291984e8fe"
+            url: "https://github.com/SGRsoft-Dev/vision-ios-sdk/releases/download/0.1.3/SGRVision.xcframework.zip",
+            checksum: "67d14b82badb41dbe07b697b9360a5b38854490b547cb15ace8b775da6ebc99b"
         )
     ]
 )
